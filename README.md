@@ -74,8 +74,8 @@ const harsh = {
 
 <div align="center">
 
-<img height="180" src="https://raw.githubusercontent.com/HarshsinhRathod/HarshsinhRathod/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
-<img height="180" src="https://raw.githubusercontent.com/HarshsinhRathod/HarshsinhRathod/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="languages" />
+<img height="180" src="https://raw.githubusercontent.com/HarshsinhRathod/HarshsinhRathod/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
+<img height="180" src="https://raw.githubusercontent.com/HarshsinhRathod/HarshsinhRathod/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="languages" />
 
 <img src="https://streak-stats.demolab.com?user=HarshsinhRathod&theme=tokyonight&hide_border=true&background=00000000&ring=22d3ee&fire=6d28d9&currStreakLabel=22d3ee" alt="streak" />
 
